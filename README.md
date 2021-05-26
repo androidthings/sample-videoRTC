@@ -1,5 +1,4 @@
 # Android Things video call sample app using WebRTC
-=++================================================
 
 This Android Things sample app demonstrates how to establish WebRTC video call. It's based on the
 original [WebRTC Android sample](https://webrtc.org/native-code/android/), slightly modified
@@ -13,6 +12,9 @@ via a signal server. This sample uses a hosted version of the [WebRTC signaling 
 Please refer to https://www.html5rocks.com/en/tutorials/webrtc/infrastructure/ for more information
 on WebRTC signaling.
 
+> **Note:** The Android Things Console will be turned down for non-commercial
+> use on January 5, 2022. For more details, see the
+> [FAQ page](https://developer.android.com/things/faq).
 
 ## Pre-requisites
 
